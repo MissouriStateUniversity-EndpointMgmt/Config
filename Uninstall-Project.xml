@@ -1,0 +1,9 @@
+<Configuration>
+  <Remove OfficeClientEdition="64">
+    <Product ID="ProjectPro2021Volume">
+      <Language ID="en-us"/>
+    </Product>
+  </Remove>
+  <Property Name="FORCEAPPSHUTDOWN" Value="TRUE" />
+  <Display Level="Full" AcceptEULA="TRUE"/>
+</Configuration>
