@@ -4,5 +4,5 @@
     </Product>
   </Remove>
   <Property Name="FORCEAPPSHUTDOWN" Value="TRUE" />
-  <Display Level="Full" AcceptEULA="TRUE"/>
+  <Display Level="None" AcceptEULA="TRUE"/>
 </Configuration>
